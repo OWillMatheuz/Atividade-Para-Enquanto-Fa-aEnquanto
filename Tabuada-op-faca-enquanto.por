@@ -9,13 +9,13 @@ programa
 		leia(tabuada)
 		
 		
-		faca
+		enquanto(x>10)
 		{
 			resultado = tabuada * x
 			escreva("\n",tabuada, " X " ,x, " = ", resultado)
 			x++
 		}
-		enquanto(x>10)
+		faca
 	}
 }
 /* $$$ Portugol Studio $$$ 
