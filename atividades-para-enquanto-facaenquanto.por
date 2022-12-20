@@ -15,7 +15,7 @@ programa
 			leia(tabuada)
 		}
 		
-		faca
+		faça
 		{
 			resultado = tabuada * x
 			escreva("\n",tabuada," X ",x," = ",resultado)
