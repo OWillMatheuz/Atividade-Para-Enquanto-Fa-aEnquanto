@@ -8,14 +8,13 @@ programa
 		escreva("\nQual a tabuada deseja visualizar?")
 		leia(tabuada)
 		
-		
-		enquanto(x>10)
+		 faca
 		{
 			resultado = tabuada * x
 			escreva("\n",tabuada, " X " ,x, " = ", resultado)
 			x++
 		}
-		faca
+		enquanto(x>10)
 	}
 }
 /* $$$ Portugol Studio $$$ 
