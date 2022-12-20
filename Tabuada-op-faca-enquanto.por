@@ -7,11 +7,16 @@ programa
 
 		escreva("\nQual a tabuada deseja visualizar?")
 		leia(tabuada)
-		
-		 faca
+		enquanto(tabuada<1 ou tabuada>10)
+			limpa()
+		escreva("\nDigite um numero de 1 a 10")
+				escreva("\nQual a tabuada que deseja vizualizar? ")
+		leia(tab)
+		}
+		faca
 		{
-			resultado = tabuada * x
-			escreva("\n",tabuada, " X " ,x, " = ", resultado)
+			res=tab*x
+			escreva("\n",tab,"X",x,"=",res)
 			x++
 		}
 		enquanto(x>10)
