@@ -7,8 +7,7 @@ programa
 
 		escreva("\nQual a tabuada deseja visualizar?")
 		leia(tabuada)
-		
-		Faca
+		faca
 		{
 			resultado = tabuada * x
 			escreva("\n",tabuada, " X " ,x, " = ", resultado)
