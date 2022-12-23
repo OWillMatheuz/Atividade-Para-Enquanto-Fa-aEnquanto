@@ -63,7 +63,7 @@ programa
     escreva("\nTotal de pessoas maiores de 50 anos: ", somaTotalMaior50)
 
     		
-
+// versao2
 	
 
 /* $$$ Portugol Studio $$$ 
